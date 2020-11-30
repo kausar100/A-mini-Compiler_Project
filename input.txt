@@ -1,0 +1,83 @@
+@stdio.h@
+@stdlib.h@
+-- this is a print function
+<<this is 
+a multiline 
+comment
+for a lcm 
+funciton>>
+start main()
+{
+	int a,b/
+	a equ 1/
+	print(a)/
+	
+	int a/
+	a equ 2/
+	print(a)/
+	
+	a equ 3+3/
+	print(a)/
+	inc a/
+	print(a)/
+	dec a/
+	print(a)/
+	
+	
+	print(gcd(6,3))/
+	print(lcm(5,3))/
+
+		
+	b equ lcm(9,6)/
+	print(b)/	
+	
+	a equ gcd(7,6)/
+	print(a)/
+	
+	a equ fact(a)/
+	print(a)/
+	
+	b equ power(2,3)/
+	print(b)/
+	
+	print(power(5,2))/
+	
+	b equ 3*2/
+	print(b)/
+	
+	c equ a+b/
+	print(c)/
+	--d equ 9mod5/	
+	print(d)/
+	
+	int m/
+	m equ 8 by 3/
+	print(m)/
+	
+	l equ m mod d/
+	print(l)/
+	
+	int k/
+	k equ 8 != 3/
+	print(k)/
+	inc k/
+	print(k)/
+	
+	if(8 mod 3){print(8)/}
+	else{4by2/}
+	ifn(6<12){(32==32)/}
+	int p/
+	for p from 1 to 5
+	{
+		(6by2)/
+	}
+	p equ 10/
+	int i/
+	i equ 8+2/
+	switch(i)
+	{
+		case 3: { 8+9/ }
+		case p: { power(4,3)/ }
+		default: { 9by3/ }
+	}
+}
