@@ -1,2 +1,2 @@
-# Bison_flex_project
-This is a bison file using flex and bison code
+# Compile_Project(Bison_flex)
+This is a compiler project file using flex and bison code
